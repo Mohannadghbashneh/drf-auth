@@ -42,4 +42,4 @@ docker-compose up
 ```
 
 #### Pull Requests
-- [PULL REQUEST LINK]()
+- [PULL REQUEST LINK](https://github.com/Mohannadghbashneh/drf-auth/pull/1)
